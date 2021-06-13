@@ -21,6 +21,14 @@ Based on the two deliverables we can see that:
 * There are far more employees retiring than there are employees eligible for the mentorship program.
 
 ## Summary 
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  Ultimately, 90,398 roles are going to have to be filled as the "silver tsunami" happens. 
+ * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  It would not appear that there are. There are only 1,549 employees that are eligible for the mentorship program compared tot the 90,398 roles that need to be filled. 
+  
+There are two additional tables that I think would be helpful:
+1. A table that that provides employee information for those who were born in 1965-1967 and are still current employees. I think it would be useful to expand the number of employees that could be eligible for the mentorship program. 
+2. A table that provides the count of retiring employees by their gender. I think this will be helpful because it will help the company be aware of some of the diversity they may be losing and they can keep that in mind to make sure they maintain an inclusive workspace.
 
 
 
